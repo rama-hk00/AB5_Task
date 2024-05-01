@@ -1,0 +1,11 @@
+https://acme.blob.core.windows.net
+https://storageacme.blob.core.windows.net
+https://acmestorage.blob.core.windows.net
+https://acme1.blob.core.windows.net
+https://acme100.blob.core.windows.net
+https://acmetest.blob.core.windows.net
+https://acmefiles.blob.core.windows.net
+https://acmeblob.blob.core.windows.net
+https://acmeblobs.blob.core.windows.net
+https://acmecache.blob.core.windows.net
+https://acmefiles.blob.core.windows.net

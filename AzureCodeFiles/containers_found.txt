@@ -1,0 +1,4 @@
+https://acme.blob.core.windows.net/files?restype=container&comp=list
+https://acme.blob.core.windows.net/pictures?restype=container&comp=list
+https://acmetest.blob.core.windows.net/test?restype=container&comp=list
+https://acmetest.blob.core.windows.net/test2?restype=container&comp=list
